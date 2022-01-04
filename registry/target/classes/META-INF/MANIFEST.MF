@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: registry
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 91950
+Implementation-Vendor-Id: com.piggymetrics
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/piggymetrics/registry
+Created-By: Maven Integration for Eclipse
+
